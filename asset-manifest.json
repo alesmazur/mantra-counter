@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mantra-counter/static/css/main.6c2bcfc6.css",
+    "main.js": "/mantra-counter/static/js/main.81e4070d.js",
+    "static/js/787.749b4a44.chunk.js": "/mantra-counter/static/js/787.749b4a44.chunk.js",
+    "static/media/logo.svg": "/mantra-counter/static/media/logo.e46c99048f6664b6d360e3894b782d09.svg",
+    "index.html": "/mantra-counter/index.html",
+    "main.6c2bcfc6.css.map": "/mantra-counter/static/css/main.6c2bcfc6.css.map",
+    "main.81e4070d.js.map": "/mantra-counter/static/js/main.81e4070d.js.map",
+    "787.749b4a44.chunk.js.map": "/mantra-counter/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2bcfc6.css",
+    "static/js/main.81e4070d.js"
+  ]
+}
